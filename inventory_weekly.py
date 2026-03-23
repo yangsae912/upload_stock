@@ -11,11 +11,11 @@ import csv
 from datetime import datetime
 
 DB_CONFIG = {
-    "host":     "localhost",
-    "database": "pos",
-    "user":     "postgres",
-    "password": "1234",
-    "port":     5432
+    "host":     "",
+    "database": "",
+    "user":     "",
+    "password": "",
+    "port":     
 }
 
 FILE_PATH = r'C:\Users\User\Desktop\오프라인 운영\vscode\upload_pgadmin\stock\inventory_weekly\구매팀 _ 입고일정_렌즈파트_표.csv'
